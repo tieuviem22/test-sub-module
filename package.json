@@ -1,0 +1,19 @@
+{
+  "name": "test-sub-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tieuviem22/test-sub-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tieuviem22/test-sub-module/issues"
+  },
+  "homepage": "https://github.com/tieuviem22/test-sub-module#readme"
+}
