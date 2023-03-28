@@ -1,0 +1,3 @@
+[submodule "money-manage"]
+	path = money-manage
+	url = https://github.com/tieuviem22/money-manage.git
