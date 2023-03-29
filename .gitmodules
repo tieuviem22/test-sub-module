@@ -7,3 +7,6 @@
 [submodule "fe-manage-money"]
 	path = fe-manage-money
 	url = https://github.com/tieuviem22/fe-manage-money.git
+[submodule "sub_modules/My_Project"]
+	path = sub_modules/My_Project
+	url = https://gitlab.com/TienVuLoop/my-project1.git
