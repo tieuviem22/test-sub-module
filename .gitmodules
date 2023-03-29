@@ -1,3 +1,9 @@
 [submodule "money-manage"]
 	path = money-manage
 	url = https://github.com/tieuviem22/money-manage.git
+[submodule "blog1"]
+	path = blog1
+	url = https://github.com/tieuviem22/blog1.git
+[submodule "fe-manage-money"]
+	path = fe-manage-money
+	url = https://github.com/tieuviem22/fe-manage-money.git
